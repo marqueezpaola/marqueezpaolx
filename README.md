@@ -2,23 +2,19 @@
 <div align="left">
 
   <h1 style="margin:0; padding:0;">
-    🏃‍♂️ Forrest Knight
+    Alex Márquez
   </h1>
 
-  <p style="margin:8px 0 12px 0;">
-    <img
-      alt="Digital Craftsman (Developer/Filmmaker/Creator)"
-      src="https://img.shields.io/badge/Digital%20Craftsman-Developer%2FFilmmaker%2FCreator-1f6feb?style=for-the-badge"
-    />
-  </p>
-
   <p style="margin:0; line-height:1.6;">
-    I'm an indie full-stack developer and content creator building my version of the digital world one step at a time.
-    All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
-    All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
-    I publish that content on my YouTube channel
-    "<a href="https://www.youtube.com/@ForrestKnight" target="_blank" rel="noopener noreferrer">ForrestKnight</a>"
-    to more than 600k subscribers.
+    Soy ingeniera en sistemas y estudiante de ingeniería biomédica, enfocada en el diseño y desarrollo de sistemas tecnológicos aplicados a contextos reales.
+    Trabajo en la creación de soluciones full stack, sistemas automatizados y plataformas orientadas a sectores como salud, educación y servicios.
+    <br><br>
+    Mis proyectos se desarrollan desde una base conceptual sólida, abarcando análisis, diseño, implementación y validación, con énfasis en arquitectura clara,
+    uso responsable de la tecnología y resolución de problemas reales mediante software.
+    <br><br>
+    Actualmente construyo un portafolio técnico orientado a entornos profesionales y académicos, con proyección hacia áreas como HealthTech y, a largo plazo,
+    neuroingeniería.
   </p>
 
 </div>
+
