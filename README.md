@@ -26,19 +26,19 @@
     biomédica como línea de especialización a largo plazo.
   </p>
 
-  <!-- Redes sociales centradas -->
-  <div align="center" style="margin-top:14px;">
-    <a href="https://TU_DOMINIO_WEB" target="_blank">
-      <img src="https://img.shields.io/badge/Website-212830?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
+<!-- Redes sociales centradas -->
+<div align="center" style="margin-top:14px;">
+  <a href="https://TU_DOMINIO_WEB" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-212830?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
 
-    <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-212830?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-212830?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-    <a href="mailto:tu.correo@dominio.com">
-      <img src="https://img.shields.io/badge/Email-212830?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </div>
+  <a href="mailto:tu.correo@dominio.com">
+    <img src="https://img.shields.io/badge/Email-212830?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 </div>
