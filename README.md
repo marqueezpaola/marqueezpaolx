@@ -4,7 +4,7 @@
   <h1>Alex Márquez</h1>
 
   <p>
-    <img src="https://img.shields.io/badge/DIGITAL%20CRAFTSWOMAN-212830?style=flat" alt="DIGITAL CRAFTSWOMAN" />
+    <img src="https://img.shields.io/badge/DIGITAL%20CRAFTSWOMAN-212830?style=flat" alt="Digital Craftswoman" />
     <img src="https://img.shields.io/badge/Full--Stack%20Developer-212830?style=flat" alt="Full-Stack Developer" />
     <img src="https://img.shields.io/badge/Software%20Engineer-212830?style=flat" alt="Software Engineer" />
   </p>
