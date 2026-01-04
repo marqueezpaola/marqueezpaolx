@@ -19,6 +19,8 @@ Actualmente construyo un portafolio profesional como ingeniera de sistemas, mien
 biomédica como línea de especialización a largo plazo.
 </p>
 
+<center>
+  
 <a href="https://TU_DOMINIO_WEB" target="_blank">
   <img src="https://img.shields.io/badge/Website-0B1220?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -30,6 +32,6 @@ biomédica como línea de especialización a largo plazo.
 <a href="mailto:tu.correo@dominio.com">
   <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+</center>
 
 </div>
