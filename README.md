@@ -3,25 +3,20 @@
 <h1 style="margin:0;">Alex Márquez</h1>
 
 <p style="line-height:1.6;">
-Ingeniera de Sistemas con enfoque en el diseño y desarrollo de sistemas de software para entornos complejos, 
-especializada en soluciones aplicadas a salud, educación y sistemas inteligentes.
+Ingeniera de Sistemas especializada en el desarrollo de software y sistemas tecnológicos orientados a entornos reales.
+Trabajo como desarrolladora full stack y diseñadora de sistemas, con experiencia en aplicaciones web, plataformas,
+sistemas de información y soluciones automatizadas.
 </p>
 
 <p style="line-height:1.6;">
-Trabajo en la construcción de plataformas full stack, sistemas clínicos, soluciones de análisis de datos y 
-sistemas inteligentes experimentales, con énfasis en arquitectura clara, manejo responsable de información 
-sensible y resolución de problemas reales mediante tecnología.
+He desarrollado sistemas para sectores como salud, educación, servicios y gestión institucional, abordando proyectos
+desde el análisis y la arquitectura hasta la implementación y validación funcional.
+Mi enfoque prioriza estructura clara, seguridad, escalabilidad y uso responsable de la tecnología.
 </p>
 
 <p style="line-height:1.6;">
-Mi experiencia incluye el desarrollo de sistemas para gestión hospitalaria, tecnología biomédica, análisis de 
-imágenes médicas, evaluación cognitiva y neuroingeniería computacional, combinando ingeniería de software, 
-inteligencia artificial y diseño orientado a investigación y entornos profesionales.
-</p>
-
-<p style="line-height:1.6;">
-Actualmente oriento mi perfil hacia HealthTech y NeuroTech, con proyección a proyectos de alto impacto técnico 
-y académico.
+Actualmente construyo un portafolio profesional como ingeniera de sistemas, mientras inicio mi formación en ingeniería
+biomédica como línea de especialización a largo plazo.
 </p>
 
 </div>
