@@ -1,19 +1,12 @@
 <!-- README Hero (GitHub) -->
 <div align="left">
 
-  <h1 style="margin:0;">Alex Márquez</h1>
+  <h1>Alex Márquez</h1>
 
-  <!-- Etiquetas debajo del nombre -->
-  <p style="margin:6px 0 14px; line-height:1.2; color:#ffffff;">
-    <span style="display:inline-block; padding:6px 10px; border-radius:999px; background:rgb(33,40,48); color:#ffffff; font-weight:600; font-size:13px;">
-      DIGITAL CRAFTSWOMAN
-    </span>
-    <span style="display:inline-block; padding:6px 10px; border-radius:999px; background:rgb(33,40,48); color:#ffffff; font-weight:600; font-size:13px; margin-left:8px;">
-      Full-Stack Developer
-    </span>
-    <span style="display:inline-block; padding:6px 10px; border-radius:999px; background:rgb(33,40,48); color:#ffffff; font-weight:600; font-size:13px; margin-left:8px;">
-      Software Engineer
-    </span>
+  <p>
+    <img src="https://img.shields.io/badge/DIGITAL%20CRAFTSWOMAN-212830?style=flat" alt="DIGITAL CRAFTSWOMAN" />
+    <img src="https://img.shields.io/badge/Full--Stack%20Developer-212830?style=flat" alt="Full-Stack Developer" />
+    <img src="https://img.shields.io/badge/Software%20Engineer-212830?style=flat" alt="Software Engineer" />
   </p>
 
   <p style="line-height:1.6;">
