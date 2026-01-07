@@ -41,6 +41,111 @@
   </a>
 </div>
 
+
+<br><br>
+
+<h2 align="center">Stack Tecnológico</h2>
+
+<p align="center" style="line-height: 1;">
+
+<!-- Fila 1 -->
+<kbd style="margin: 12px 18px; padding: 10px 14px; display: inline-block;">
+  <kbd>Lenguajes</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+</kbd>
+
+<kbd style="margin: 12px 18px; padding: 10px 14px; display: inline-block;">
+  <kbd>Frontend</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+</kbd>
+
+<kbd style="margin: 12px 18px; padding: 10px 14px; display: inline-block;">
+  <kbd>Backend</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"/>
+</kbd>
+
+<!-- Fila 2 -->
+<kbd style="margin: 12px 18px; padding: 10px 14px; display: inline-block;">
+  <kbd>Bases de Datos</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+</kbd>
+
+<kbd style="margin: 12px 18px; padding: 10px 14px; display: inline-block;">
+  <kbd>Data &amp; Experimentación</kbd>
+  <br><br>
+  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"/>
+</kbd>
+
+<kbd style="margin: 12px 18px; padding: 10px 14px; display: inline-block;">
+  <kbd>Sistemas Operativos</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+</kbd>
+
+<kbd style="margin: 12px 18px; padding: 10px 14px; display: inline-block;">
+  <kbd>Otros</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</kbd>
+
+
+<!-- Top Projects List -->
+<br><br>
+<h2 align="center">Top Projects</h2>
+
+<p align="center">
+  <!-- PetGuard -->
+  <a href="https://github.com/alexmarqueeez/plataform-pet">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=plataform-pet&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="PetGuard">
+  </a>
+
+  <!-- E.L.B.A -->
+  <a href="https://github.com/alexmarqueeez/siie-elba">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=siie-elba&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="E.L.B.A">
+  </a>
+
+  <!-- BioScan -->
+  <a href="https://github.com/alexmarqueeez/swie-bioscan">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=swie-bioscan&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="BioScan">
+  </a>
+
+  <!-- Sistema Bibliotecario -->
+  <a href="https://github.com/alexmarqueeez/swg-library">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=swg-library&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Sistema Bibliotecario">
+  </a>
+
+  <!-- G.E.A -->
+  <a href="https://github.com/alexmarqueeez/pa-gea">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=pa-gea&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="G.E.A">
+  </a>
+
+  <!-- Smart City -->
+  <a href="https://github.com/alexmarqueeez/sci-smartcity">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=sci-smartcity&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Smart City">
+  </a>
+</p>
+
+
+
 </div>
 
 <!-- --------------------------------------------------------------- -->
